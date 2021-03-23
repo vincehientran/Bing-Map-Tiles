@@ -6,7 +6,6 @@ class TileSystem():
     MAX_LAT = 85.05112878
     MIN_LONG = -180
     MAX_LONG = 180
-    # http://ecn.t2.tiles.virtualearth.net/tiles/h03022223101022113021.jpeg?g=129&mkt=en-US&shading=hill&stl=H
 
     def clip(n, minValue, maxValue):
         return min(max(n, minValue), maxValue)
