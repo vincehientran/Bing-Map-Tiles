@@ -2,7 +2,7 @@
 Vincent Tran [A20396585]
 
 ## Language  
-Python 3.7
+Python 3.7.5
 
 ## Libraries  
 ```

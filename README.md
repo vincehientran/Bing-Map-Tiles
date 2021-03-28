@@ -1,8 +1,10 @@
 # Bing-Map-Tiles  
-Vincent Tran
+Vincent Tran  
+  
+Project explanation can be found in the [presentation](docs/Aerial_Satellite%20Imagery%20Retrieval.pdf).
 
 ## Language  
-Python 3.7
+Python 3.7.5
 
 ## Libraries  
 ```
